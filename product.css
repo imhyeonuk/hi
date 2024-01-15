@@ -1,0 +1,72 @@
+
+#description{
+
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
+}
+
+#package{
+border-bottom-left-radius:20px ;
+border-bottom-right-radius:20px ;
+
+
+}
+
+
+
+
+
+
+
+
+
+div.basic{border: 1px solid #222;
+  width: 800px;
+  margin: 10px auto;
+}
+/* 각각의 div안에 또 다른 div가 있는지 확인 */
+/* div{border: 1px solid #222;
+width: 800px;
+margin: 10px auto; */
+
+
+
+.textcenter{
+  text-align: center;
+
+
+
+
+}
+
+
+.content{
+  width: 700px;
+  margin: 10px auto;
+
+}
+
+
+  table{
+margin: 10px auto;
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+table, th, td {
+  border:1px solid #ccc;
+  border-collapse: collapse;
+}
+th, td { 
+  padding:10px 20px; 
+}
